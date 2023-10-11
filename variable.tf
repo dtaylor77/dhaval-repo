@@ -2,6 +2,10 @@ variable "account_id" {
   default = "199660179115"
 }
 
+variable "aws_profile" {
+  description = "AWS Profile"
+}
+
 variable "account_name" {
   default = "dhaval3"
 }
