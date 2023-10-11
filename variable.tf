@@ -1,4 +1,4 @@
-variable "account_id" {
+variable "dhaval3_account_id" {
   default = "199660179115"
 }
 
